@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-12T22:59:53 IST" name="Default suite" finished-at="2024-11-12T22:59:55 IST" duration-ms="2482">
+    <groups>
+    </groups>
+    <test started-at="2024-11-12T22:59:53 IST" name="Default test" finished-at="2024-11-12T22:59:55 IST" duration-ms="2482">
+      <class name="Test.DyanamicJson">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:Test.DyanamicJson@654f0d9c]" started-at="2024-11-12T22:59:53 IST" name="addBook" data-provider="booksData" finished-at="2024-11-12T22:59:55 IST" duration-ms="2163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:Test.DyanamicJson@654f0d9c]" started-at="2024-11-12T22:59:55 IST" name="addBook" data-provider="booksData" finished-at="2024-11-12T22:59:55 IST" duration-ms="133" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:Test.DyanamicJson@654f0d9c]" started-at="2024-11-12T22:59:55 IST" name="addBook" data-provider="booksData" finished-at="2024-11-12T22:59:55 IST" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- Test.DyanamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
