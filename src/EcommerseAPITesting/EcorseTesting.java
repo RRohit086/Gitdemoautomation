@@ -22,6 +22,10 @@ loginrequest.setUserPassword("Hello123@");
 	String token=loginResponce.getToken();
 	System.out.println(loginResponce.getToken());
 	System.out.println(loginResponce.getUserId());
+	System.out.println("Raghu baby");
+	System.out.println("chaua baby");
+	System.out.println("dudu baby");
+	
 	
 	//Add Product
 	CreateProductrespo createProductrespo=new CreateProductrespo();
